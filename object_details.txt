@@ -1,0 +1,16 @@
+Courses:
+Course: CMP-272 | Number of Credits: 04 | Graduate
+Course: PHY-145 | Number of Credits: 03 | Undergraduate
+Course: ENG-121 | Number of Credits: 03 | Undergraduate
+Faculties:
+Person: Name:                           MATT | Birth Year: 1999 Employee: Department:                  CMP | Employee Number:   1 Faculty:  Is Tenured | Number of Courses Taught:   1 | Courses Taught: CMP-167
+Person: Name:                          KAREN | Birth Year: 1998 Employee: Department:                 MATH | Employee Number:   2 Faculty:  Is Tenured | Number of Courses Taught:   0 | Courses Taught: 
+Person: Name:                           ALEX | Birth Year: 1997 Employee: Department:                  CMP | Employee Number:   3 Faculty:  Is Tenured | Number of Courses Taught:   3 | Courses Taught: CMP-167, CMP-168, MATH-175
+GeneralStaff:
+Person: Name:                           cody | Birth Year: 2001 Employee: Department:           advisement | Employee Number:   4 GeneralStaff: Duty:    advisor
+Person: Name:                            max | Birth Year: 2000 Employee: Department:             security | Employee Number:   5 GeneralStaff: Duty:     safety
+Person: Name:                           evan | Birth Year: 1999 Employee: Department:           sanitation | Employee Number:   6 GeneralStaff: Duty:   cleaning
+Students:
+Person: Name:                           john | Birth Year: 2002 Student: studentID: 0001 | Major     computer science |  Undergraduate | Number of Courses Taken:   3 | Courses Taken: cmp-167, cmp-168, math-175
+Person: Name:                          larry | Birth Year: 2001 Student: studentID: 0002 | Major     computer science |  Undergraduate | Number of Courses Taken:   2 | Courses Taken: CMP-168, MATH-175
+Person: Name:                          barry | Birth Year: 2000 Student: studentID: 0003 | Major                 math |  Undergraduate | Number of Courses Taken:   3 | Courses Taken: math-175, CMP-168, MATH-175
